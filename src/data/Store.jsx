@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import App from '../views/App';
 
 const initialState = {
     number: 1234,
